@@ -1,0 +1,14 @@
+.logo {
+    min-width: 50px;
+    max-width: 200px;
+}
+
+span {
+    display: inline-flex;
+    align-items: center;
+    font-family: ui-monospace;
+}
+
+span i {
+    margin: 2px;
+}

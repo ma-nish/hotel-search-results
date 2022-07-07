@@ -1,0 +1,20 @@
+.counter {
+  display: inline-flex;
+}
+
+.count {
+  margin: 5px;
+  text-align: end;
+}
+
+.counter-btn {
+  width: 34px;
+  text-align: center;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.counter-btn:hover {
+  background: rgb(225, 217, 217);
+}
